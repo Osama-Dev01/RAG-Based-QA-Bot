@@ -65,3 +65,8 @@ Technical documentation extraction
 Literature review automation  
 Business reports and proposals  
 Policy document question answering  
+
+## ---------
+
+![Architecture Diagram](https://github.com/Osama-Dev01/RAG-Based-QA-Bot/blob/main/rag-pdf-qa-bot/docs/rag2.PNG)
+
