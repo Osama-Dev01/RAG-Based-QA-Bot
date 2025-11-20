@@ -18,7 +18,7 @@ A Retrieval-Augmented Generation (RAG) system that allows users to upload any PD
 
 ## Architecture
 
-![Architecture Diagram]([https://example.com/path/to/your/image.png](https://github.com/Osama-Dev01/RAG-Based-QA-Bot/blob/main/rag-pdf-qa-bot/docs/ChatGPT%20Image%20Nov%2020%2C%202025%2C%2009_41_06%20PM.png))
+![Architecture Diagram](https://github.com/Osama-Dev01/RAG-Based-QA-Bot/blob/main/rag-pdf-qa-bot/docs/ChatGPT%20Image%20Nov%2020%2C%202025%2C%2009_41_06%20PM.png)
 
 ### PDF Processing Pipeline
 - **PDF Loader**: Uses PyPDFLoader to extract text from PDF pages
